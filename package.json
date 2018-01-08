@@ -1,0 +1,13 @@
+{
+	"name": "tic-tac-toe",
+	"version": "1.0.0",
+	"description": "tic-tac-toe game",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/dtarellano/tic-tac-toe"
+	},
+	"author": "David Arellano",
+	"license": "ISC",
+	"homepage": "https://github.com/dtarellano/tic-tac-tow",
+	"dependencies": {}
+}
